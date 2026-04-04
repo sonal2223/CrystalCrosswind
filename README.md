@@ -1,5 +1,4 @@
 # CrystalCrosswind
-# 🌟 Crystal Crosswind (C++ Project)
 
 ## 📌 Overview
 Crystal Crosswind is a C++ based project developed to demonstrate core programming concepts such as logic building, input handling, and structured code design. This project is created using Code::Blocks IDE.
