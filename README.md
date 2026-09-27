@@ -12,7 +12,7 @@ Crystal Crosswind is a C++ based project developed to demonstrate core programmi
 ## 🛠️ Technologies Used
 - Language: C++.
 - IDE: Code::Blocks.
-- Compiler: GCC / MinGW
+- Compiler: GCC / MinGW.
 
 ## ▶️ How to Run
 1. Open the project in Code::Blocks  
