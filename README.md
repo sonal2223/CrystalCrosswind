@@ -18,7 +18,7 @@ Crystal Crosswind is a C++ based project developed to demonstrate core programmi
 1. Open the project in Code::Blocks.  
 2. Build the project (F9) . 
 3. Run the program . 
-4. View output in console
+4. View output in console.
 
  ## 📌 Note
 This project is a basic implementation to demonstrate C++ programming concepts.  
