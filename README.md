@@ -21,7 +21,7 @@ Crystal Crosswind is a C++ based project developed to demonstrate core programmi
 4. View output in console.
 
  ## 📌 Note
-This project is a basic implementation to demonstrate C++ programming concepts.  
+This project is a basic implementation to demonstrate C++ programming concepts..  
 You can further enhance it by adding advanced features, GUI, or optimizing the logic..
 
 ## Author : Sonal Kumbhar.
